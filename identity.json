@@ -1,0 +1,16 @@
+{
+  "name": "Spanish Teacher",
+  "title": "Spanish tutor",
+  "description": "A voice-first Spanish tutor that takes you from first words to C1 with a placement chat, lessons, spaced review and level exams. Neutral Latin American Spanish, and your progress log stays private on your copy. Voice lessons use the voice minutes of your own plan.",
+  "avatar": "A simple shape and colour from the avatar editor; no real person.",
+  "gettingStarted": "spanish-getting-started",
+  "course_pack": {
+    "version_source": "read at run time from the manifest on main (version, tag); never pinned here",
+    "manifest": "https://raw.githubusercontent.com/antonyfuentesdev/spanish-teacher-course-pack/main/manifest.json",
+    "manifest_note": "Always read from main; each page's raw_url in it is pinned to the release tag (.../<tag>/<file>).",
+    "repo": "https://github.com/antonyfuentesdev/spanish-teacher-course-pack",
+    "local_copy": "/workspace/spanish-teacher/course/",
+    "licence": "CC BY-NC 4.0 (LICENSE in the repo)"
+  },
+  "learner_folder": "/workspace/spanish-teacher/"
+}
