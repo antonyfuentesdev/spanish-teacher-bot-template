@@ -1,6 +1,10 @@
 # Spanish Teacher — Grok Bot template
 
-Source files for the **Spanish Teacher** Grok Bot template, by Antony Fuentes. This repo is the template's source of truth: the bot's identity, starting memories, routines and 13 skills. The Marketplace listing is exported from the Spanish Teacher bot itself and stays a private draft until reviewed. Changes go through pull requests to the protected `main` branch.
+## Try it
+
+Published on Grok Bot: [Spanish Teacher](https://x.ai/bot/81AkB9k0IgS65382DCm_8). Open the link to create your own copy.
+
+Source files for the **Spanish Teacher** Grok Bot template, by Antony Fuentes. This repo is the template's source of truth: the bot's identity, starting memories, routines and 13 skills. The published Grok Bot template is exported from the Spanish Teacher bot itself. Changes go through pull requests to the protected `main` branch.
 
 Licence: CC BY-NC 4.0 (see LICENSE). Attribution: "Spanish Teacher bot template by Antony Fuentes". Commercial use requires the author's permission.
 
